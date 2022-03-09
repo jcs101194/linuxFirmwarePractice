@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1539314164 source:/home/juan/Documents/hw1/main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<unistd.h>
+	<ctype.h>
+	<signal.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<errno.h>
+	<fcntl.h>
+	<time.h>
+
